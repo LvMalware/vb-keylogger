@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "00-LvKeylogger", "00-LvKeylogger\00-LvKeylogger.vbproj", "{2A4CC02A-499B-43C9-A362-FBF71E7E3BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4CC02A-499B-43C9-A362-FBF71E7E3BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4CC02A-499B-43C9-A362-FBF71E7E3BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4CC02A-499B-43C9-A362-FBF71E7E3BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4CC02A-499B-43C9-A362-FBF71E7E3BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
